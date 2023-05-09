@@ -1,5 +1,4 @@
 <?php
-system("clear");
 
 // $arrow = fn($x, $y) => $x+$y;
 
